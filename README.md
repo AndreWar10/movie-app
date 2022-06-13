@@ -11,16 +11,19 @@ Aplicação desenvolvida em Flutter para estudar conexão com API remota e padr�
 </div>
 
   #
-<div align="center"> 
+<div align="left"> 
   <strong>📚 Telas do App:</strong>
 </div>
 
 
-<div align="center">  
-   <strong>1. Animation:</strong> Essa tela é a animação que aparece quando o App é startado.
+<div align="left">  
+   <strong>1. Home Page:</strong> Primeira tela do App, que contém todoos os filmes da API.
 </div>
-<div align="center"> 
-   <strong>2. Nova Transferência:</strong> Essa sessão tem por finalidade efetuar uma nova transferência.
+<div align="left"> 
+   <strong>2. Home + Search:</strong> Pesquisa por nome do filme.
+</div>
+<div align="left"> 
+   <strong>2. Details Page:</strong> Tela que contém todas informações relacionadas ao filme escolhido.
 </div>
   
   #
@@ -28,29 +31,29 @@ Aplicação desenvolvida em Flutter para estudar conexão com API remota e padr�
   <table align="center">
   <tr>
     <td>
-      <img src="https://github.com/AndreWar10/cyber-bank/blob/master/img/transferencias-retrato.jpeg" alt="Transferencias - version mobile" height="600px">
+      <img src="https://github.com/AndreWar10/movie-app/blob/master/lib/photos/WhatsApp%20Image%202022-06-13%20at%2018.30.15.jpeg" alt="Home-Page - version mobile" height="600px">
     </td>
     <td>
-      <img src="https://github.com/AndreWar10/cyber-bank/blob/master/img/transacao-retrato.jpeg" alt="Nova Transferência - version mobile" height="600px">
+      <img src="https://github.com/AndreWar10/movie-app/blob/master/lib/photos/WhatsApp%20Image%202022-06-13%20at%2018.30.14%20(2).jpeg" alt="Search - version mobile" height="600px">
     </td>
+    <td>
+      <img src="https://github.com/AndreWar10/movie-app/blob/master/lib/photos/WhatsApp%20Image%202022-06-13%20at%2018.30.14%20(1).jpeg" alt="Details Page - version mobile" height="600px">
+    </td>
+    
   </table>
   
-  #
-  <div align="center">
-  3. <strong>Rotação:</strong> Visualização das telas caso o usuário use o modo rotacionado:
-  </div>
-  #
-  
-  <table align="center">
-  <tr>
-    <td>
-      <img src="https://github.com/AndreWar10/cyber-bank/blob/master/img/transferencias-rotacionada.jpeg" alt="Transferencias - version mobile" width="500px">
-    </td>
-    <td>
-      <img src="https://github.com/AndreWar10/cyber-bank/blob/master/img/transacao-rotacionado.jpeg" alt="Transferencias - version mobile" width="500px">
-    </td>
-  </table>
 <div align="center">  
-  
-## 💼 Tecnologias utilizadas: Framework Flutter.
-</div>  
+  <strong> 💼 Tecnologias utilizadas: </strong>
+</div>   
+
+<table align="center">
+ <tr>
+  <td>Framework Flutter</td>  
+  <td>Dio Package</td>
+  <td>MVC Pattern</td>
+  <td>Lottie Animation</td>
+  <td>Decorator Patter </td>
+ </tr>
+</table>
+ 
+
