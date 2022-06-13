@@ -1,16 +1,56 @@
-# movieapp
+<div align="center"> 
+  <strong>📽 Movie App :</strong>
+</div>
 
-A new Flutter project.
+<div align="center">
+Aplicação desenvolvida em Flutter para estudar conexão com API remota e padrões de projeto (Decorator-Pattern).
+</div>  
+  
+<div align="center">  
+  O App é composto por uma animação inicial, uma home-page que lista todos filmes da API integrado a um campo de busca, que faz um filtro por nome. Temos a details-page, que após clicar no filme o usuário é direcionado, compondo mais informações do filme selecionado. Foi feito uma implantação de save-cache, para armazenar os dados que foram coletados da API no cache do dispositivo, pois caso fique sem conexão ainda conseguirá exibir os itens.
+</div>
 
-## Getting Started
+  #
+<div align="center"> 
+  <strong>📚 Telas do App:</strong>
+</div>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center">  
+   <strong>1. Animation:</strong> Essa tela é a animação que aparece quando o App é startado.
+</div>
+<div align="center"> 
+   <strong>2. Nova Transferência:</strong> Essa sessão tem por finalidade efetuar uma nova transferência.
+</div>
+  
+  #
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/AndreWar10/cyber-bank/blob/master/img/transferencias-retrato.jpeg" alt="Transferencias - version mobile" height="600px">
+    </td>
+    <td>
+      <img src="https://github.com/AndreWar10/cyber-bank/blob/master/img/transacao-retrato.jpeg" alt="Nova Transferência - version mobile" height="600px">
+    </td>
+  </table>
+  
+  #
+  <div align="center">
+  3. <strong>Rotação:</strong> Visualização das telas caso o usuário use o modo rotacionado:
+  </div>
+  #
+  
+  <table align="center">
+  <tr>
+    <td>
+      <img src="https://github.com/AndreWar10/cyber-bank/blob/master/img/transferencias-rotacionada.jpeg" alt="Transferencias - version mobile" width="500px">
+    </td>
+    <td>
+      <img src="https://github.com/AndreWar10/cyber-bank/blob/master/img/transacao-rotacionado.jpeg" alt="Transferencias - version mobile" width="500px">
+    </td>
+  </table>
+<div align="center">  
+  
+## 💼 Tecnologias utilizadas: Framework Flutter.
+</div>  
