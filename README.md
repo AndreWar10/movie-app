@@ -7,7 +7,7 @@ Aplicação desenvolvida em Flutter para estudar conexão com API remota e padr�
 </div>  
   
 <div align="center">  
-  O App é composto por uma animação inicial, uma home-page que lista todos filmes da API integrado a um campo de busca, que faz um filtro por nome. Temos a details-page, que após clicar no filme o usuário é direcionado, compondo mais informações do filme selecionado. Foi feito uma implantação de save-cache, para armazenar os dados que foram coletados da API no cache do dispositivo, pois caso fique sem conexão ainda conseguirá exibir os itens.
+  O App é composto por uma animação inicial, uma home-page que lista todos filmes da API integrado a um campo de busca, que faz um filtro por nome. Temos a details-page, que após clicar no filme o usuário é direcionado, compondo mais informações do filme selecionado. Foi feito uma implantação de save-cache, para armazenar os dados que foram coletados da API no cache do dispositivo, pois caso fique sem conexão ainda conseguirá se exibir.
 </div>
 
   #
@@ -31,13 +31,13 @@ Aplicação desenvolvida em Flutter para estudar conexão com API remota e padr�
   <table align="center">
   <tr>
     <td>
-      <img src="https://github.com/AndreWar10/movie-app/blob/master/lib/photos/WhatsApp%20Image%202022-06-13%20at%2018.30.15.jpeg" alt="Home-Page - version mobile" height="600px">
+      <img src="https://github.com/AndreWar10/movie-app/blob/master/lib/photos/WhatsApp%20Image%202022-06-13%20at%2018.30.15.jpeg" alt="Home-Page - version mobile" height="500px">
     </td>
     <td>
-      <img src="https://github.com/AndreWar10/movie-app/blob/master/lib/photos/WhatsApp%20Image%202022-06-13%20at%2018.30.14%20(2).jpeg" alt="Search - version mobile" height="600px">
+      <img src="https://github.com/AndreWar10/movie-app/blob/master/lib/photos/WhatsApp%20Image%202022-06-13%20at%2018.30.14%20(2).jpeg" alt="Search - version mobile" height="500px">
     </td>
     <td>
-      <img src="https://github.com/AndreWar10/movie-app/blob/master/lib/photos/WhatsApp%20Image%202022-06-13%20at%2018.30.14%20(1).jpeg" alt="Details Page - version mobile" height="600px">
+      <img src="https://github.com/AndreWar10/movie-app/blob/master/lib/photos/WhatsApp%20Image%202022-06-13%20at%2018.30.14%20(1).jpeg" alt="Details Page - version mobile" height="500px">
     </td>
     
   </table>
